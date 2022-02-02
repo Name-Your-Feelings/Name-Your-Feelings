@@ -13,14 +13,7 @@ and to better connect with our communities.
 
 Know what you're feeling. Name it, feel it, let it go, and grow from it. 
 
-Find someone to talk to: 
-- [Psychology Today Therapist Listing](https://www.psychologytoday.com/us/therapists)
 
-Learn more from people who know stuff.
-
-- [Resilient Middle Georgia](https://www.resilientmiddlegeorgia.org/)
-- [Resilient Georgia](https://www.resilientga.org/)
-
-This is only the start. [View our roadmap.](https://nameyourfeelings.com/roadmap)
-
-[Resources](https://nameyourfeelings.com/resources)
+- [About this project.](https://nameyourfeelings.com/about)
+- [View our roadmap.](https://nameyourfeelings.com/roadmap)
+- [Resources](https://nameyourfeelings.com/resources)
