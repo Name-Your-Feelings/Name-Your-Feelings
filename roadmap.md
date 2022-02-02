@@ -1,0 +1,3 @@
+- Goal 1: Static Image
+- Goal 2: Simple Emotion Selector that Gives more specific words and definitions (I.E. Choose "Sad", offer: lonely, hungry, stressed, etc)
+- Goal 3: Implement first-step AI from [AI.tier2.tech](https://AI.tier2.tech), allow visitors to enter short description of what they feel with emotion selector, provide more specific feelings.
