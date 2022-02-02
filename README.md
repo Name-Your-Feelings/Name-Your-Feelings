@@ -4,7 +4,7 @@ An easy, free tool to help you name your feelings.
 
 ![Feeling Wheel](https://allthefeelz.app/static/pages/img/cc_colored_feeling_wheel.png)
 
-Colored Feeling Wheel by Feeling Wheel is licensed under a Creative Commons Attribution-ShareAlike 4.0 International License.
+Colored Feeling Wheel [by Feeling Wheel](https://allthefeelz.app/cc/feeling-wheel/) is licensed under a Creative Commons Attribution-ShareAlike 4.0 International License.
 Based on a work at https://www.tandfonline.com/doi/abs/10.1177/036215378201200411.
 
 This project is intended as a playground for a lightweight tool that helps people of all ages to identify the specific emotions 
